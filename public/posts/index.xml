@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hashed &amp; Signed</title>
+    <link>https://shanedeconinck.be/posts/</link>
+    <description>Recent content in Posts on Hashed &amp; Signed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2023 20:52:34 +0100</lastBuildDate>
+    <atom:link href="https://shanedeconinck.be/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How enterprise blockchain is benefiting from innovations in the Wild W3st</title>
+      <link>https://shanedeconinck.be/posts/how-enterprise-blockchain-benefiting-from-innovations/</link>
+      <pubDate>Fri, 29 Dec 2023 20:52:34 +0100</pubDate>
+      <guid>https://shanedeconinck.be/posts/how-enterprise-blockchain-benefiting-from-innovations/</guid>
+      <description>The emergence of blockchain networks On October 31, 2008 Satoshi Nakamoto published the Bitcoin whitepaper. Two months later, the Bitcoin genesis block was mined. Interestingly, we still don&amp;rsquo;t know the identity of Satoshi, which I hope will remain a mystery forever.&#xA;Now, 14 years later, the novel technology called &amp;lsquo;blockchain&amp;rsquo; is still an area of excitement, disappointment, hope, confusion and heated debate. It turns out that designing decentralized networks and building upon them is a subtle art with many parameters.</description>
+    </item>
+  </channel>
+</rss>

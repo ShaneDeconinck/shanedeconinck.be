@@ -1,0 +1,84 @@
++++
+title = 'Why We Should Stop Bullying Bitcoin'
+date = 2023-12-08T21:22:11+01:00
+draft = true
++++
+![Image alt](main.png)
+
+The trading price of  #Bitcoin  had a downfall during the last years, but is seeing a strong comeback these days. This will make it an interesting topic again for media, and no doubt the comparisons to the energy consumption of whole countries will be mentioned with excitement and anger. How dare we spoil all this for a coin that we even can't touch?!
+
+To me, however, Bitcoin is interesting every day. No matter how it's valued. It's the first digital invention that achieves to be a commodity. There's no company running it, and no single entity no matter how powerful that can stop it. 1 bitcoin = 1 bitcoin, that's the only equation that matters. This might sound a bit philosophical, but the impact of this achievement can't be underestimated. No matter where you live, you can join the network and if you manage to obtain some satoshis (parts of) / bitcoin you can transact.
+
+Often times there's being reported how energy consuming the network is. I honestly believe that's one of the most misunderstood topics. And I would like to consume some of my own energy in this post in the hope to help clarify this.
+
+First of all, let me explain what the Proof of Work consensus model is that makes this Bitcoin so energy consuming. Blockchain is a DLT (distributed ledger technology). A ledger is an append-only data structure. This means that you never delete anything, you just keep on adding data. The same way as your bank statements that mention the money that comes in, as well as the sometimes painful reminders of the money that went out. This is necessary because decentralization is the goal. You don't fully trust the other nodes, so you verify all things (transactions) that happened before appending them to your ledger. These transactions are grouped into blocks, and these blocks are chained to each other by referencing the content of the previous one by mentioning its cryptographic hash (a short combination of numbers and letters that functions as its fingerprint), so that you're sure that it hasn't been tampered with. Because wouldn't it be convenient if we could erase all the impulsive spending from our bank accounts...
+
+But how does the network decide which node gets to add the next block to the chain, if there's no official organisation in control? This is where it gets interesting. To decide that, the network needs to reach  consensus.  In public permissionless networks, node operators don't necessarily know each other. The more nodes there are in the network, the more decentralized the network is. And to incentivize the node operators to do the investments, they are rewarded if they add the next block. But in the digital reality, there's no almost no friction. That's why we receive so much spam in our mailboxes. Computers can send tons of emails per second at close to no cost.
+
+Proof of work was invented as a way to prevent spam. A researcher reasoned that if computers were required to do a little bit of work before being allowed to send a mail, sending spam would become too expensive. Sadly spam is still a reality, but let's choose our battle and focus back on Bitcoin.
+
+So all those that want to find the next block are called Bitcoin miners, and they all try to find a little piece of text and numbers so that a puzzle is solved. There is no other way to find it than guessing. Every second the network is currently doing 363 000 000 000 000 000 000 guesses. That is a number with 18 zeroes. As a comparison, that's 48 times the estimated amount of all grains of sand on all the beaches combined on our earth. Quite a lot right.
+
+So yes, that consumes an enormous amount of energy. And all the while we are reminded that we should save on energy consumption. Why waste all this on a coin that most of us don't see any use for. Before I took the time to deeply reason about this topic, I believed it was shameless opportunism of bro's that wanted lambo's by burning our planet.
+
+But I changed my mind for a few reasons. Regardless of the fact that there are indeed a lot of bro's that want lambo's, and that they probably wouldn't care about the fact that our world is burning.
+
+## 1\. Involving real-world scarcity means there's true skin in the game
+
+As I wrote already, there's close to no friction in a digital system. A computer can perform an incredible amount of calculations without sweating. So to decide who can add the next block to the network, a very hard puzzle is presented to the miners so that the network can decide who gets to add the new block, and receive some bitcoin in return for that.
+
+Because the network is decentralized and permissionless, there must be a mechanism to prevent cheating. If there would be no cost in guessing the puzzle, many might be tempted to remove their own expenses from the current or a previous block, solve the puzzle again, and sharing their version of the Bitcoin blockchain. There would be so many versions, that we wouldn't be able to decide which one is the true one!
+
+Many blockchains label themselves as second or third generation, because they stepped away of PoW (Proof of Work). But in other consensus models there is more centralisation, either through governance or by putting something at stake for cheating. Usually the main trade-off compared to bitcoin is that being deeply involved in the network gives you more power. Just like the wealthy of our world can earn lots of money through interests on their wealth.
+
+In proof of work that's not the case. No matter how much bitcoin you own or how many blocks you mined in the past, you still have to be lucky to solve the puzzle for the next block. Sure, owning a lot of ASICS (mining hardware) give you more chance. But they can't be used forever, and there are continuously more efficient miners coming to the market. Next to that, you need to consume a lot of electricity to run these miners, and energy is  scarce! Hence, it's very hard to obtain and maintain privilege.
+
+If you try to cheat, solve the puzzles, and share your version of the blockchain with the world, and get caught, then you would have wasted all that energy for nothing. Auch.
+
+So spending energy connects real world scarcity to a digital network. That's a very important thing.
+
+## 2\. Not all energy is the same
+
+There are lots of miners competing to solve the puzzle and to add the next block. If they solve it, they earn some bitcoin. The reward is halved every four years. The difficulty to solve the puzzle increases if its being solved too fast.
+
+But to solve it, they need to spend a lot of energy, which comes at a cost. In most places in the world, energy is valuable. When the puzzle is too hard, and the cost of solving the puzzle is higher than the reward, then there's no more incentive for a miner to join the competition.
+
+So only the miners with the cheapest energy are competing. That's why they are not consuming energy that you might buy for your household, company, ... They are using "stranded energy" instead. Because you would pay more for that energy, and it wouldn't be profitable for them to buy it at the same price.
+
+## 3\. It might even incentivise the transition to renewable energy
+
+Transmitting energy has limits in distance (there are losses along the way) and storing it is very expensive, and that's a burden for investments in renewable energy. Energy consumption is not a constant. For example, a village usually consumes more during the day then at night.
+
+So there is a lot of energy generated that is simply not being used because it's not economical to send it to the other part of the country, or to store it in a battery. However, what if we use that spare energy to help protect the most decentralized network in the world, and provide even those in the most corrupt countries access to a store of value & means of transacting?
+
+In return, you earn bitcoin, which can be sold for whichever currency. And that income can help to earn back on the investment. You might still be sceptical, and that's fine. But give it a fair chance. In the Congolese national park Virunga they are  [doing exactly this 🦍](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/), and in El Salvador they're even using  [volcano energy](https://www.reuters.com/technology/el-salvador-partnership-build-1-billion-bitcoin-mining-farm-2023-06-05/)  🌋.
+
+## 4\. There are many breeds of blockchains, and different consensus models can perfectly coexist.
+
+There are many blockchain networks, and not all of them need to be as decentralized as Bitcoin. Hence, not all of them need Proof of Work. As every engineer knows, a good solution  depends  on the requirements and trade-offs.
+
+[EBSI](https://hub.ebsi.eu/)  for example is governed by the European Union, and uses Proof of Authority which doesn't involve any energy expense other than running the computers for normal operations.
+
+But it's too simple by labeling Bitcoin as an outdated concept. When decentralization and security is your top priority, there's no competitor.
+
+## 5\. Bitcoin is quite slow, but that's for a reason.
+
+Another criticism is that the Bitcoin network is slow. Every block has a limited amount of transactions that can be fit into it, and there's only one block mined every 10 minutes.
+
+But that's for a reason. The network wants to avoid that energy is being wasted for no reason, because that energy is better used for trying to find the next block. So when a block is found, there needs to be some time for the news to pass through the network so that they stop solving a puzzle that's already solved.
+
+However, making it slower than necessary would also make no sense. That's why if on average the blocks are mined too fast, the difficulty of the puzzle increases, and vice versa.
+
+You might be thinking... "why not just make the blocks bigger?" I would answer that's a great idea, but not a solution. The size of a block is limited so that the ledger can still fit on an affordable hard drive. If not, only large datacenters would be involved which would lead to more centralization. In fact, there has been a "Blocksize War" in the short history of the network. I even  [own a book about it](https://www.amazon.co.jp/-/en/Jonathan-Bier/dp/B08YQMC2WM).
+
+## 6\. You can buy a coffee with bitcoin, and do as much transactions as the VISA network, at the same speed and even a lower cost
+
+Because the amount of transactions in a block is limited, you have to pay a fee if you want your transaction to be included in the next block. Miners pick the transactions that have the most generous fees, because they also get that as a reward next to the one they get for solving the puzzle.
+
+Someone who wants to buy a car might be willing to pay a higher fee than someone paying for a coffee. That's why you will ofter hear the criticism that networks such as VISA are far more superior, and that Bitcoin is a failed idea. But the VISA network is not at the core of banking. It's a layer somewhere higher on top of it, which settles periodically. (yes, i feel the pain of that settlement even thinking of it). Solutions such layer-2s, sidechains, or even layerless techniques such as  [Lightning Network](https://lightning.network/)  do the same, and some allow for instantaneous payments at close to no cost. Even cheaper than using a credit card. For example the app  [Strike](https://strike.me/)  build on top of Lightning Network, and allows transactions  in dollar  across the world. Which is great for things such as remittance.
+
+## Conclusion
+
+I'm very careful not to fall into biased reasoning, and feel free to comment if you have different views on this. But please approach it rationally and give it a fair chance, because as most things of life this is not a matter of black or white, but rather a spectrum of shades of gray. There is indeed coal being burned in some parts of the world, and other non-renewables. But there's work being done  [by the industry](https://bitcoinminingcouncil.com/)  to report on the progress regarding this.
+
+Ironically, by wishing Bitcoin the worst, we might be shooting ourselves in the foot.

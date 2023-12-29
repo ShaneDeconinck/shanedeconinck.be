@@ -1,0 +1,15 @@
+baseURL = 'https://shanedeconinck.be/'
+languageCode = 'en-us'
+title = 'Hashed & Signed'
+theme = "paper"
+[params]
+    color = 'linen'  
+
+    twitter = 'ShaneDeconinck'
+    linkedin = 'shanedeconinck'
+    rss = true
+    
+    avatar = 'shane.deconinck@gmail.com'
+    name = 'Shane Deconinck'
+    bio = 'Hands-on DLT Expert'
+    monoDarkIcon = true 
