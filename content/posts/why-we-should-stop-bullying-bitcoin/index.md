@@ -1,5 +1,5 @@
 +++
-title = 'Why we should stop bullying Bitcoin's Proof of Work for its energy consumption'
+title = 'Why we should stop bullying Bitcoin\'s Proof of Work for its energy consumption'
 date = 2023-12-08T21:22:11+01:00
 draft = false
 +++
