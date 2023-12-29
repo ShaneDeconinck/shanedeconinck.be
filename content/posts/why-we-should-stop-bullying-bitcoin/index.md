@@ -1,7 +1,7 @@
 +++
 title = 'Why We Should Stop Bullying Bitcoin'
 date = 2023-12-08T21:22:11+01:00
-draft = true
+draft = false
 +++
 ![Image alt](main.png)
 
