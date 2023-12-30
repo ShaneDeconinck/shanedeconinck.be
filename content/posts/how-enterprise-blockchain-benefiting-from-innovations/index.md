@@ -1,6 +1,6 @@
 +++
 title = 'How enterprise blockchain is benefiting from innovations in the Wild W3st'
-date = 2023-12-29T20:52:34+01:00
+date = 2023-12-23T20:52:34+01:00
 draft = false
 +++
 ![Image alt](main.png)
