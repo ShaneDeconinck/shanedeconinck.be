@@ -56,25 +56,25 @@ This event is a practical showcase of decentralized systems and blockchain techn
 
 A DAO can have wide ranging functionalities, and can be implemented in many different ways. Here are some common characteristics:
 
--   Token-Based Membership:  In a DAO, membership is often associated with holding specific tokens. These tokens can represent voting power, equity, or a stake in the DAO. The more tokens a member has, the more influence they might wield in the DAO's decision-making process.
--   Proposal and Voting System, and Consensus Mechanism:  DAOs operate on a system of proposals and voting to make decisions. Members can propose changes or actions, which are then voted on by the community. The consensus mechanism, which can vary from simple majority to more complex systems, is used to determine whether a proposal is accepted or rejected.
--   Roles:  Within a DAO, there can be various roles, including founders, developers, investors, and regular members. Each role may have different responsibilities and levels of involvement in the DAO's operations.
--   Off-Chain Communication Channels:  DAOs often use off-chain platforms like Discord, Telegram, or forums for communication and discussion among members. These channels facilitate discussions on proposals, strategies, and general community engagement.
--   Treasury:  A DAO's treasury is where its funds are stored and managed, often through smart contracts. The use of these funds is typically decided through the DAO's governance process, with members voting on how to allocate resources for projects, investments, or operational expenses.
--   Legal Structure:  Some DAOs choose to establish a formal legal structure to interface with traditional legal and financial systems. This can help in defining the DAO's legal standing, handling liabilities, and facilitating interactions outside the blockchain ecosystem.
+-   **Token-Based Membership**:  In a DAO, membership is often associated with holding specific tokens. These tokens can represent voting power, equity, or a stake in the DAO. The more tokens a member has, the more influence they might wield in the DAO's decision-making process.
+-   **Proposal and Voting System, and Consensus Mechanism**:  DAOs operate on a system of proposals and voting to make decisions. Members can propose changes or actions, which are then voted on by the community. The consensus mechanism, which can vary from simple majority to more complex systems, is used to determine whether a proposal is accepted or rejected.
+-   **Roles**:  Within a DAO, there can be various roles, including founders, developers, investors, and regular members. Each role may have different responsibilities and levels of involvement in the DAO's operations.
+-   **Off-Chain Communication Channels**:  DAOs often use off-chain platforms like Discord, Telegram, or forums for communication and discussion among members. These channels facilitate discussions on proposals, strategies, and general community engagement.
+-   **Treasury**:  A DAO's treasury is where its funds are stored and managed, often through smart contracts. The use of these funds is typically decided through the DAO's governance process, with members voting on how to allocate resources for projects, investments, or operational expenses.
+-   **Legal Structure**:  Some DAOs choose to establish a formal legal structure to interface with traditional legal and financial systems. This can help in defining the DAO's legal standing, handling liabilities, and facilitating interactions outside the blockchain ecosystem.
 
 ## Best practices
 
--   Start Small:  Begin with manageable goals to facilitate learning and adaptation.
--   Stand on the Shoulders of Giants:  Learn from existing DAOs to build on successful strategies.
--   Clear and Simple Governance:  Implement straightforward governance to encourage participation.
--   Robust Security Measures:  Prioritize security with regular audits and updates.
--   Effective Communication Channels:  Use platforms like Discord for member engagement and transparency.
--   Legal Compliance and Structure:  Navigate the regulatory landscape with legal advice.
--   Encourage Active Participation:  Incentivize meaningful contributions from members.
--   Iterative Development:  Gradually introduce changes based on member feedback.
--   Diversify and Decentralize:  Aim for a diverse member base to enhance resilience.
--   Regular Audits and Reviews:  Continuously evaluate the DAO's operations and governance.
+-   **Start Small**:  Begin with manageable goals to facilitate learning and adaptation.
+-   **Stand on the Shoulders of Giants**:  Learn from existing DAOs to build on successful strategies.
+-   **Clear and Simple Governance**:  Implement straightforward governance to encourage participation.
+-   **Robust Security Measures**:  Prioritize security with regular audits and updates.
+-   **Effective Communication Channels**:  Use platforms like Discord for member engagement and transparency.
+-   **Legal Compliance and Structure**:  Navigate the regulatory landscape with legal advice.
+-   **Encourage Active Participation**:  Incentivize meaningful contributions from members.
+-   **Iterative Development**:  Gradually introduce changes based on member feedback.
+-   **Diversify and Decentralize**:  Aim for a diverse member base to enhance resilience.
+-   **Regular Audits and Reviews**:  Continuously evaluate the DAO's operations and governance.
 
 ## Reflection
 
