@@ -76,6 +76,12 @@ A DAO can have wide ranging functionalities, and can be implemented in many diff
 -   **Diversify and Decentralize**:  Aim for a diverse member base to enhance resilience.
 -   **Regular Audits and Reviews**:  Continuously evaluate the DAO's operations and governance.
 
+## User Experience (UX) as a Barrier
+
+While the concept of DAOs holds immense promise, one significant barrier to their widespread adoption is the user experience (UX). Interacting with decentralized systems can be complex and daunting for the average user. The need to manage private keys, navigate blockchain interfaces, and understand the intricacies of smart contracts can be overwhelming.
+
+However, it's important to note that the Web3 community recognizes this challenge and is actively working on solutions. Innovations like account abstraction are on the horizon, aiming to make UX more user-friendly. Account abstraction abstracts away many of the complexities of interacting with the blockchain, making it easier for users to engage with DAOs and other decentralized applications.
+
 ## Reflection
 
 Reflecting on the nature of Decentralized Autonomous Organizations (DAOs), it's evident that establishing and managing a DAO is indeed more challenging than running a centralized organization. This complexity stems from the decentralized nature of DAOs, which requires a careful balancing of security, legal compliance, effective governance, and active community engagement.
