@@ -7,7 +7,7 @@ draft = false
 
 ## Smart Contracts
 
-The idea of smart contracts was conceived in the late '90s by Nick Szabo, a computer scientist, legal scholar, and cryptographer. In  1996  he published the article  [Smart Contracts: Building Blocks for Digital Free Markets](https://www.semanticscholar.org/paper/Smart-Contracts%3A-Building-Blocks-for-Digital-Szabo/9b6cd3fe0bf5455dd44ea31422d015b003b5568f)  [1] and in  1997  the article  [The Idea of Smart Contracts](https://web.archive.org/web/20140406003401/szabo.best.vwh.net/idea.html)  [2].
+The idea of smart contracts was conceived in the late '90s by Nick Szabo, a computer scientist, legal scholar, and cryptographer. In  1996  he published the article  [Smart Contracts: Building Blocks for Digital Free Markets](https://www.semanticscholar.org/paper/Smart-Contracts%3A-Building-Blocks-for-Digital-Szabo/9b6cd3fe0bf5455dd44ea31422d015b003b5568f) and in  1997  the article  [The Idea of Smart Contracts](https://web.archive.org/web/20140406003401/szabo.best.vwh.net/idea.html).
 
 Szabo explored the potential of using  cryptographic  techniques  to bring about  self-executing contracts  and  decentralized mechanisms  for enforcing contractual clauses. His vision was to embed contractual agreements into the programming of digital systems, thereby reducing the need for traditional legal enforcement mechanisms and intermediaries. However, the technology wasn't yet available to implement the idea.
 
