@@ -75,3 +75,7 @@ I'm flying back on Saturday, but I'm already thinking about how I can come back 
 ![](japan12.jpg)
 ![](japan13.jpg)
 ![](japan14.jpg)
+![](japan15.jpg)
+![](japan16.jpg)
+![](japan17.jpg)
+![](japan18.jpg)

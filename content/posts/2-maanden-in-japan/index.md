@@ -125,3 +125,6 @@ Hopelijk heb je iets bijgeleerd over dit fascinerende land. 🙂
 ![](japan13.jpg)
 ![](japan14.jpg)
 ![](japan15.jpg)
+![](japan16.jpg)
+![](japan17.jpg)
+![](japan18.jpg)
