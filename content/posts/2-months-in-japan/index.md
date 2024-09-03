@@ -5,10 +5,6 @@ draft = false
 +++
 ![](japan2.jpg)
 
-Here's the English translation of your text:
-
----
-
 It's almost over. Two months in Japan, spent without a plan.
 
 I rented a small apartment in Tokyo. Which is as vague as saying "In Flanders." Because Tokyo doesn't have a specific center; it's a conglomeration of many neighborhoods. So, more specifically, I lived in Ootsuka for two months, which is right next to Ikebukuro.
