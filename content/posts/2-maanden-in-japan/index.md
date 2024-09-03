@@ -3,7 +3,7 @@ title = "Twee maanden in Japan, vertoefd zonder plan"
 date = 2024-08-26T21:22:11+01:00
 draft = false
 +++
-![Image alt](main.png)
+![](japan2.jpg)
 
 Het zit er bijna op. Twee maanden in Japan, vertoefd zonder plan.
 
@@ -112,6 +112,5 @@ Hopelijk heb je iets bijgeleerd over dit fascinerende land. 🙂
 
 
 ![](japan1.jpg)
-![](japan2.jpg)
 ![](japan3.jpg)
 ![](japan4.jpg)
