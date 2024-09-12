@@ -1,6 +1,6 @@
 baseURL = 'https://shanedeconinck.be/'
 languageCode = 'en-us'
-title = 'Hashed & Signed'
+title = 'Shane Deconinck'
 theme = "paper"
 [params]
     color = 'linen'  
