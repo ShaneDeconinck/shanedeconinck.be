@@ -5,7 +5,7 @@ draft = false
 +++
 ![Image alt](main.png)
 
-Since 2017, we have been deeply involved in the non-profit organization Afrodidact, which aims to provide quality education for every child. We’re currently focused on The Gambia, and within Afrodidact, our digital solutions pillar is KUBO—a project we have been building with an ever-growing team of dedicated volunteers.
+Since 2017, I have been deeply involved in the non-profit organization Afrodidact, which aims to provide quality education for every child. We’re currently focused on The Gambia, and within Afrodidact, our digital solutions pillar is KUBO—a project I have been building with an ever-growing team of dedicated volunteers.
 
 On October 8, 2024, Educaid – Belgium’s educational aid organization – hosted its International Conference on "Leveraging Technologies for Inclusive Quality Education." This topic felt like a perfect fit for our work, so we reached out to participate. After considering what to present, we decided to take a step back and share the key lessons we’ve learned, hoping they would be useful to others working in similar fields.
 
