@@ -5,9 +5,14 @@ date = "2015-02-07"
 author = "Shane Deconinck" 
 +++
 
+![Shane Deconinck](/images/shanedeconinck.jpeg)
+
 **Web3 Developer and Architect**  
-Highly motivated hands-on Web3 Consultant  
-Fast learner, client-driven, with a passion for research & technology  
+Web3 Lead and project researcher at Howest Cyber3Lab, specializing in trust through decentralized technologies. Since 2017, I have been conducting applied research on how these emerging technologies impact SMEs. 
+
+Beyond research, I organise workshops and provide tailored consultancy for businesses. I'm frequently invited as a speaker at industry events and in the media to bridge the gap between business and technology. In 2023, I presented at the Linux Open Source Summit in Tokyo.
+
+With an interdisciplinary approach and expertise in Design Thinking, I translate complex technologies into real-world applications, helping businesses and policymakers navigate the digital transformation landscape.
 
 ---
 
