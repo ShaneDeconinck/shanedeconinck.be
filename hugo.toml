@@ -10,7 +10,7 @@ theme = "paper"
     
     avatar = 'shane.deconinck@gmail.com'
     name = 'Shane Deconinck'
-    bio = 'Hands-on DLT Expert'
+    bio = 'Translating Web3 into Enterprise Impact — Architecture, Trust Systems & Tokenization'
     monoDarkIcon = true 
 
 [menu]
