@@ -5,8 +5,9 @@ date = "2015-02-07"
 author = "Shane Deconinck" 
 +++
 
-# Shane Deconinck
 ![Shane Deconinck](/images/shanedeconinck.jpeg)
+
+# Shane Deconinck
 
 Blockchain Architect & Web3 Strategist, bridging technology and business through decentralized infrastructure, trust systems, and full-stack development.
 
