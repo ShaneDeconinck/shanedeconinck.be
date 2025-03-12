@@ -2,7 +2,6 @@
 title = "Blockchain Architecture First Principles — Hypothesis #1"
 date = 2025-03-12
 draft = false
-tags: ["blockchain", "architecture", "trust", "decentralization", "web3"]
 +++
 ### 💭 Explanation
 Ironically, when trust is low, **we shouldn't eliminate it** — we must bring in untrusted participants as a last resort and reward them well for it.  
