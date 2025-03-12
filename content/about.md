@@ -1,0 +1,144 @@
++++ 
+title = "About me" 
+description = "Shane Deconinck" 
+date = "2015-02-07" 
+author = "Shane Deconinck" 
++++
+
+**Web3 Developer and Architect**  
+Highly motivated hands-on Web3 Consultant  
+Fast learner, client-driven, with a passion for research & technology  
+
+---
+
+## Contact Information
+- **Location:** Bruges, Belgium - relocating to Tokyo  
+- **Phone:** +32 471 591 187  
+- **Email:** shane.deconinck@gmail.com  
+- **Website:** [shanedeconinck.be](https://shanedeconinck.be)  
+- **LinkedIn:** [linkedin.com/in/shanedeconinck](https://linkedin.com/in/shanedeconinck)  
+
+---
+
+## Experience
+
+### **Web3 Lead**  
+*Howest University of Applied Sciences · 2019 - Ongoing*  
+- Development and architecture within blockchain use cases for national and European research projects.
+- Development of innovative web platforms with interdisciplinary teams.
+- Leading Web3 team, mentoring interns.
+
+### **Interim Research Manager**  
+*Howest University of Applied Sciences · 2022 - 2023*  
+- Managed 13 applied researchers at the research group Security & Privacy. (AI, Cybersecurity, Immersive Tech, Web3).
+
+### **Full Stack Web Developer**  
+*Howest University of Applied Sciences · 2017 - 2019*  
+- Developed innovative web platforms with interdisciplinary teams.
+
+---
+
+## Certifications & Awards
+- **BCP:** Besu Certified Professional *(The Linux Foundation, 2025)*
+- **CHFD:** Certified Hyperledger Fabric Developer *(The Linux Foundation, 2021)*
+- **Certified Laravel Developer** *(Laravel Certification Program, September 2020)*
+- **Foundations in Design Thinking** *(IDEO U, July 2019)*
+- **TERP10 - Integration of Business Processes in SAP ERP** *(SAP, January 2017)*
+
+---
+
+## Side Projects
+
+### **Tech Lead**  
+*Afrodidact vzw · 2017 - Present*  
+- Non-profit developing EdTech solutions for schools in deprived contexts.
+
+---
+
+## Education
+
+- **BA Blockchain Developer & Architect @home** *(Howest University of Applied Sciences, 2020-2022, highest distinction)*
+- **BA Applied Computer Science - Minor ICT Consultancy** *(Howest University of Applied Sciences, 2015-2017, distinction)*
+- **IT Management (High School)** *(KTA Drie Hofsteden Kortrijk, 2007, award best IT student)*
+
+---
+
+## Languages
+- **Dutch** - Native
+- **English** - Proficient
+- **French** - Professional
+- **Japanese** - Beginner
+
+---
+
+## Skills
+
+### **Web3**
+- EVM, Besu
+- Hyperledger Fabric
+- SSI / EBSI
+- Bitcoin / Lightning Network
+- IPFS
+
+### **Web2**
+- TALL stack: Tailwind, Alpine.js, PHP / Laravel, Livewire
+- Node.js / Express
+- Vue.js
+
+### **System**
+- Linux, Docker
+- DevOps: CI/CD, Kubernetes (conceptual)
+- Git
+
+### **Other**
+- Design Thinking
+- Business Process Modeling
+- Agile Project Management
+- Educating & Writing (demystifying complex concepts)
+
+---
+
+## Research Projects
+
+- **2024 - Ongoing:** Interreg SecuWeb: Implemented SSI on EBSI, Solid data pods, and Industry 4.0 solutions.
+- **2024 - Ongoing:** EBSI Node Expansion: Hosting of EBSI node infrastructure for decentralized credentials.
+- **2023 - Ongoing:** Digital Credentials for Europe: Explored verifiable credentials in public-sector processes.
+- **2022:** EBSI Early Adopters Programme: Created a portal for municipalities to issue verifiable credentials.
+- **2021 - Ongoing:** ICON Future Flemish Pig: Explored blockchain's potential in supply chains.
+- **2021 - 2023:** Interreg Blockchain4Prosumers: Investigated blockchain’s potential for energy trading systems.
+- **2019 - 2023:** Interreg Blockchain IN Government: Developed blockchain use cases for mobility, fitness, and energy.
+- **2017 - 2019:** TETRA Blockchain4SME: Demonstrated blockchain frameworks like Hyperledger Fabric.
+
+---
+
+## Hackathons
+
+- **Decentralized Autonomous Hackathon Series:** Developed and organized smart contract-driven hackathons:
+  - **2024:** AI Hackathon
+  - **2023:** Energy Hackathon
+  - **2022:** Anna Ridler Hackathon
+- **ETH Brussels Hackathon 2023:** Co-organizer of this blockchain-focused hackathon.
+- **BLING Hackathon 2021:** Co-organizer of an international blockchain hackathon.
+
+---
+
+## Events & Speaking Engagements
+
+- **EthCC Side Event 2024:** Organized an event focused on Hyperledger Besu implementations.
+- **DAO Brussels Crypto Wednesday April 2024:** Presentation on blockchain governance.
+- **Linux OSS and Hyperledger Member Summit 2023:** Presentation on enterprise-grade EVM solutions.
+- **LFDT Webinar 2023:** Presented on deploying and hosting EBSI nodes using Hyperledger Besu.
+- **EBSI Demystifying Seminar 2022:** Spoke on verifiable credential adoption for municipalities.
+- **Interreg Blockchain in Government Conference 2022:** Discussed blockchain use cases in government.
+- **BLING Token Conference 2022:** Insights on blockchain applications in government processes.
+- **PropTech Lab Lunch 2021:** Presentation on blockchain’s potential in construction and real estate.
+
+---
+
+## Media
+
+- **Interviewed by De Morgen** 
+- **Interviewed by De Tijd** *(leading Flemish financial newspaper)* on blockchain applications and Bitcoin halving.
+- **Featured in VOKA Entrepreneurs magazine** discussing blockchain's transformative potential.
+- **Articles on** [LinkedIn](https://linkedin.com/in/shanedeconinck) and **personal blog**.
+

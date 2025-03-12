@@ -5,7 +5,6 @@ theme = "paper"
 [params]
     color = 'linen'  
 
-    twitter = 'ShaneDeconinck'
     linkedin = 'shanedeconinck'
     rss = true
     
@@ -13,3 +12,16 @@ theme = "paper"
     name = 'Shane Deconinck'
     bio = 'Hands-on DLT Expert'
     monoDarkIcon = true 
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/about/"
+    weight = 10
