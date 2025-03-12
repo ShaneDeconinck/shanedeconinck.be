@@ -7,7 +7,6 @@ author = "Shane Deconinck"
 
 ![Shane Deconinck](/images/shanedeconinck.jpeg)
 
-**Web3 Developer and Architect**  
 Blockchain Architect & Web3 Strategist, bridging technology and business through decentralized infrastructure, trust systems, and full-stack development.
 
 I lead Web3 applied research at Howest Cyber3Lab, with 7+ years experience translating blockchain and digital assets into enterprise-ready architectures — focusing on tokenization, system design, and digital trust for SMEs and larger organizations.
