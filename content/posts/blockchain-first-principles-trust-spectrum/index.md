@@ -2,11 +2,8 @@
 title = "Blockchain Architecture First Principles — Hypothesis #1"
 date = 2025-03-12
 draft = false
+tags: ["blockchain", "architecture", "trust", "decentralization", "web3"]
 +++
-
-# Blockchain Architecture First Principles  
-## Hypothesis #1: The Less We Trust, The More We Must Bring in Untrusted Participants
-
 ### 💭 Explanation
 Ironically, when trust is low, **we shouldn't eliminate it** — we must bring in untrusted participants as a last resort and reward them well for it.  
 Instead of relying on a single authority, we distribute validation across a network to prevent any single point of control — not by reducing trust to the most trusted entity, but by spreading it.
@@ -34,3 +31,6 @@ Prevention over correction. The system is built to stop bad transactions **befor
 ---
 
 _Every Sunday, I’ll propose a blockchain first principle for architects. Not fixed rules, but emerging truths — meant to be ruthlessly challenged, like a scientific hypothesis. If a principle can’t stand up to questioning, I’ll refine or toss it._
+
+
+🌐 **Also shared on LinkedIn [LinkedIn](https://www.linkedin.com/posts/shanedeconinck_blockchain-trust-decentralization-activity-7304438628519194624-cPiZ)**
