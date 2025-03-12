@@ -32,4 +32,4 @@ Prevention over correction. The system is built to stop bad transactions **befor
 _Every Sunday, I’ll propose a blockchain first principle for architects. Not fixed rules, but emerging truths — meant to be ruthlessly challenged, like a scientific hypothesis. If a principle can’t stand up to questioning, I’ll refine or toss it._
 
 
-🌐 **Also shared on LinkedIn [LinkedIn](https://www.linkedin.com/posts/shanedeconinck_blockchain-trust-decentralization-activity-7304438628519194624-cPiZ)**
+🌐 **Also shared on [LinkedIn](https://www.linkedin.com/posts/shanedeconinck_blockchain-trust-decentralization-activity-7304438628519194624-cPiZ)**
