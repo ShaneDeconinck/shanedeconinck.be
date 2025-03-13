@@ -1,5 +1,5 @@
 +++
-title = "The Irony of Tokenization: Are Financial Incumbents the Key to Scaling Digital Asset Securities?"
+title = "The irony of tokenization: Are financial incumbents the key to scaling digital asset securities?"
 date = 2025-03-01
 draft = false
 +++
