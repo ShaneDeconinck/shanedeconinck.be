@@ -49,7 +49,7 @@ Now preparing for relocation to Japan in 2025, I’m seeking new challenges wher
 
 ---
 
-## Certifications & Awards
+## Certifications
 - **CHFD:** Certified Hyperledger Fabric Practicioner *(The Linux Foundation, 2025)*
 - **BCP:** Besu Certified Professional *(The Linux Foundation, 2025)*
 - **CHFD:** Certified Hyperledger Fabric Developer *(The Linux Foundation, 2021)*
