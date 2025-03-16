@@ -1,5 +1,5 @@
 +++
-title = "Blockchain Architecture First Principles — Hypothesis #1"
+title = "Blockchain Architecture First Principles #1 — The Less We Trust, The More We Must Bring in Untrusted Participants"
 date = 2025-03-12
 draft = false
 +++
