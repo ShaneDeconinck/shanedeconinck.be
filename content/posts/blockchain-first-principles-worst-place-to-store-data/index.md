@@ -8,28 +8,31 @@ draft = false
 ![swamp](swamp.jpg)
 
 ### 💭 Explanation
-Ironically, when trust is low, **we shouldn't eliminate it** — we must bring in untrusted participants as a last resort and reward them well for it.  
-Instead of relying on a single authority, we distribute validation across a network to prevent any single point of control — not by reducing trust to the most trusted entity, but by spreading it.
+A blockchain is more than a database. It’s a **consensus engine**.  
+That doesn’t necessarily make it better — it comes with a burden. It’s slower, more expensive, replicated, and permanent by design.  
+**We should avoid putting data on-chain unless all other options are exhausted.**
 
-### Trust exists on a spectrum:
-- **Full trust**: A centralized system where a single authority controls everything.  
-- **No trust**: A fully permissionless blockchain where security comes from decentralized consensus.  
-- **Middleground**: Permissioned or non-permissioned systems with tradeoffs act as a hybrid, balancing efficiency and decentralization — whether by selecting a limited set of trusted validators or by removing Proof of Work while maintaining security through alternative consensus mechanisms.
+On-chain data is broadcast, stored forever, and visible to anyone with access.  
+It’s like tattooing your application state and sending copies to every node in the world.
 
-### Blockchain is defensive by design:
-Prevention over correction. The system is built to stop bad transactions **before** they happen.
+You might think: “Just encrypt it or hash it.” But that’s a common fallacy:
+- **A hash is worthless once its pre-image leaks.**
+- **Encryption fails the moment its key is exposed.**  
+These aren’t shields. They’re veils. Privacy doesn’t live in one-to-one projections. It lives in what cannot be reconstructed.
 
-- **Verification, not enforcement** — once a transaction is recorded, it’s final. There’s no undo button.  
-- **Decentralization has a price** — more verification leads to slower, costlier transactions.  
-- **Incentives drive security** — trustless participants need strong incentives to secure the network.
+Even cryptography ages. **#Quantum computing** may break today’s assumptions sooner than expected.
+
+All the more reason to minimize what you expose — and assume anything stored forever may one day become readable.  
+Don’t get enthusiastic about what can be stored. Be wary of which burden and responsibility you’re willing to carry. Nothing is impossible — but **think well if it’s worth deviating from the river to pass through the swamp.**
 
 ### 🥷 How to Apply
 
-- **If trust exists, use it.** Centralized systems are faster and more efficient. If trust is weak, don’t be naïve — blockchain is costly but necessary when enforcement cannot be delegated.  
-- **Permissioned blockchains are a middle ground.** They allow selected validators to maintain efficiency while reducing reliance on a single authority.  
-- **If privacy matters, expect complexity.** Trustless systems require additional cryptographic layers for privacy.  
-- **Consensus is a tradeoff.** Proof of Work, Proof of Stake, and Proof of Authority optimize for different balances of trust, efficiency, and security.  
-- **Hybrid models work.** Permissioned and permissionless networks can coexist, leveraging their respective strengths.
+- **Default to off-chain, unless on-chain is essential for logic.**  
+- **If the data is required for smart contract execution and not sensitive, storing it on-chain is practical** — especially when the chain is purpose-built, like in a limited consortium (e.g., Hyperledger Fabric), where replication and access are controlled.  
+- **If it’s sensitive, never expose a direct mapping of the data — not even a hash.** Use commitments, signatures, or zero-knowledge proofs instead.  
+- **Zero-Knowledge Proofs (ZKPs) offer elegant solutions** — enabling you to prove facts without revealing the underlying data. But they’re also complex and unforgiving in their implementation. A small misstep can compromise the very privacy they’re meant to protect.  
+- **Design for privacy by default.** Assume anything published forever could one day become readable.  
+
 
 ---
 
