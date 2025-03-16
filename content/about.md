@@ -11,14 +11,13 @@ author = "Shane Deconinck"
 
 Blockchain Architect & Web3 Strategist, bridging technology and business through decentralized infrastructure, trust systems, and full-stack development.
 
-I lead Web3 applied research at Howest Cyber3Lab, with 7+ years experience translating blockchain and digital assets into enterprise-ready architectures — focusing on tokenization, system design, and digital trust for SMEs and larger organizations.
+I lead Web3 applied research at [Howest Cyber3Lab](https://www.cyber3lab.be), with 7+ years experience translating blockchain and digital assets into enterprise-ready architectures — focusing on tokenization, system design, and digital trust for SMEs and larger organizations.
 
 My work spans smart contract development, backend/frontend integration, and architecture consulting — with a strong foundation in design thinking and interdisciplinary problem-solving. In 2023, I was invited to speak at the Linux Open Source Summit in Tokyo.
 
 I combine a technical and strategic mindset with strong communication and leadership skills, helping organizations navigate real-world adoption of Web3 technologies.
 
 Now preparing for relocation to Japan in 2025, I’m seeking new challenges where I can contribute long-term value at the intersection of decentralized tech and business innovation.
-
 
 ---
 
@@ -50,11 +49,11 @@ Now preparing for relocation to Japan in 2025, I’m seeking new challenges wher
 ---
 
 ## Certifications
-- **CHFD:** Certified Hyperledger Fabric Practicioner *(The Linux Foundation, 2025)*
-- **BCP:** Besu Certified Professional *(The Linux Foundation, 2025)*
-- **CHFD:** Certified Hyperledger Fabric Developer *(The Linux Foundation, 2021)*
+- [**CHFD:** Certified Hyperledger Fabric Practicioner](https://www.credly.com/badges/c2d9348e-17a8-4ee1-b907-1b83b9d9e0be/linked_in_profile) *(The Linux Foundation, 2025)*
+- [**BCP:** Besu Certified Professional](https://www.credly.com/badges/5573d101-e6a9-45a0-9264-5e57136c5401/linked_in_profile) *(The Linux Foundation, 2025)*
+- [**CHFD:** Certified Hyperledger Fabric Developer](https://www.credly.com/badges/ac01ca73-f2b4-499b-a29a-c5db50c454df?source=linked_in_profile) *(The Linux Foundation, 2021)*
 - **Certified Laravel Developer** *(Laravel Certification Program, September 2020)*
-- **Foundations in Design Thinking** *(IDEO U, July 2019)*
+- [**Foundations in Design Thinking**](https://www.credential.net/m4qpwrct#acc.aRO3ZntK) *(IDEO U, July 2019)*
 - **TERP10 - Integration of Business Processes in SAP ERP** *(SAP, January 2017)*
 
 ---
