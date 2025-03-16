@@ -148,8 +148,8 @@ Now preparing for relocation to Japan in 2025, I’m seeking new challenges wher
 
 ## Media
 
-- **Interviewed by De Morgen** 
-- **Interviewed by De Tijd** *(leading Flemish financial newspaper)* on blockchain applications and Bitcoin halving.
-- **Featured in VOKA Entrepreneurs magazine** discussing blockchain's transformative potential.
+-[**Interviewed by De Morgen**](https://www.demorgen.be/nieuws/de-cryptowinter-moet-nog-komen-trump-geeft-bitcoin-en-co-een-boost~b0c48fe5/)
+- **Interviewed by De Tijd** *(leading Flemish financial newspaper)* on [blockchain applications](https://www.tijd.be/dossiers/de-vooruitblik/hoe-blockchain-en-het-metaversum-een-nieuwe-economie-laten-groeien/10356199.html) and [Bitcoin halving](https://www.tijd.be/markten-live/nieuws/algemeen/de-halvering-van-bitcoin-meer-pr-event-dan-prijsimpuls/10539880.html).
+- **Featured in VOKA Entrepreneurs magazine** discussing [blockchain's transformative potential](https://www.voka.be/publicaties/west-vlaanderen-ondernemers-2022-4).
 - **Articles on** [LinkedIn](https://linkedin.com/in/shanedeconinck) and **personal blog**.
 
