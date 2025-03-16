@@ -135,13 +135,13 @@ Now preparing for relocation to Japan in 2025, I’m seeking new challenges wher
 
 ## Events & Speaking Engagements
 
-- **EthCC Side Event 2024:** Organized an event focused on Hyperledger Besu implementations.
+- [**EthCC Side Event 2024:**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
 - **DAO Brussels Crypto Wednesday April 2024:** Presentation on blockchain governance.
-- **Linux OSS and Hyperledger Member Summit 2023:** Presentation on enterprise-grade EVM solutions.
-- **LFDT Webinar 2023:** Presented on deploying and hosting EBSI nodes using Hyperledger Besu.
-- **EBSI Demystifying Seminar 2022:** Spoke on verifiable credential adoption for municipalities.
-- **Interreg Blockchain in Government Conference 2022:** Discussed blockchain use cases in government.
-- **BLING Token Conference 2022:** Insights on blockchain applications in government processes.
+- [**Linux OSS and Hyperledger Member Summit 2023 Tokyo:**](https://www.youtube.com/watch?v=HClN-UI_Muw) Presentation on EBSI.
+- [**LFDT Webinar 2023:**](https://www.youtube.com/watch?v=xPuEU4zqI6A) Presented on deploying and hosting EBSI nodes using Hyperledger Besu.
+- [**EBSI Demystifying Seminar 2022:**](https://youtu.be/54WrOZ2IEZE?si=JKmjpS7uSrNnunJy&t=3842) Spoke on verifiable credential adoption for municipalities.
+- [**Interreg Blockchain in Government Conference 2022:**](https://northsearegion.eu/bling/events/finished-26-april-2023-blockchain-works-lessons-from-blockchain-in-government/) Discussed blockchain use cases in government.
+- [**BLING Token Conference 2022:**](https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/TOKEN%20BLING%20Conference%20agenda.pdf) Insights on blockchain applications in government processes.
 - **PropTech Lab Lunch 2021:** Presentation on blockchain’s potential in construction and real estate.
 
 ---
