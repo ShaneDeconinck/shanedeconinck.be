@@ -1,5 +1,5 @@
 +++
-title = "Blockchain Architecture First Principles #2 — 𝗔 𝗕𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 𝗜𝘀 𝗧𝗵𝗲 𝗪𝗼𝗿𝘀𝘁 𝗣𝗹𝗮𝗰𝗲 𝗧𝗼 𝗦𝘁𝗼𝗿𝗲 𝗗𝗮𝘁𝗮"
+title = "Blockchain Architecture First Principles #2 — A Blockchain Is The Worst Place To Store Data"
 date = 2025-03-16
 draft = false
 +++
