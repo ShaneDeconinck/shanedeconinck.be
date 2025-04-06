@@ -44,4 +44,5 @@ When triggered, they execute exactly as written, no more, no less.
 
 _Every Sunday, I propose a blockchain first principle for architects. These are not fixed rules, but emerging truths meant to be ruthlessly challenged, like a scientific hypothesis. If a principle cannot stand up to questioning, I will refine or discard it._ 😌
 
-#Blockchain hashtag#Web3 hashtag#DLT hashtag#SmartContract hashtag#FirstPrinciples
+
+🌐 **Also shared on [LinkedIn](https://www.linkedin.com/posts/shanedeconinck_blockchain-web3-dlt-activity-7314559669195214848-_P1V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAjP1-wB57TFLEnLFVsyAeHsFKYt-Xs0KyQ)**
