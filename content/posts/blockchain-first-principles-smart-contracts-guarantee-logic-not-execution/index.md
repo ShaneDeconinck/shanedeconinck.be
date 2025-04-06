@@ -38,7 +38,7 @@ Smart contracts shift responsibility to their environment, an environment that c
 
 Smart contracts are reactive.  
 Without a caller, they remain silent.  
-When triggered, they execute exactly as written — no more, no less.
+When triggered, they execute exactly as written, no more, no less.
 
 ---
 
