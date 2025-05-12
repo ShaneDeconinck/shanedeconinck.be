@@ -1,5 +1,5 @@
 +++
-title = "Blockchain Architecture First Principles #4 — Design from Failure Up"
+title = "Blockchain Architecture First Principles #4 - Design from Failure Up"
 date = 2025-03-30
 draft = false
 +++

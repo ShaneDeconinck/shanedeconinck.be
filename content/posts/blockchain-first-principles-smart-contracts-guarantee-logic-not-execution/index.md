@@ -1,5 +1,5 @@
 +++
-title = "Blockchain Architecture First Principles #5 — Smart Contracts Guarantee Logic, Not Execution"
+title = "Blockchain Architecture First Principles #5 - Smart Contracts Guarantee Logic, Not Execution"
 date = 2025-04-06
 draft = false
 +++
