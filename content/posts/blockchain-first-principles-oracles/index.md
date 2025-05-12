@@ -1,5 +1,5 @@
 +++
-title = "Blockchain Architecture First Principles #3 - On-chain Data Is Not Truth — It’s Accepted Input"
+title = "Blockchain Architecture First Principles #3 - On-chain Data Is Not Truth, It’s Accepted Input"
 date = 2025-03-23
 draft = false
 +++
