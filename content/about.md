@@ -17,12 +17,10 @@ My work spans smart contract development, backend/frontend integration, and arch
 
 I combine a technical and strategic mindset with strong communication and leadership skills, helping organizations navigate real-world adoption of Web3 technologies.
 
-Now preparing for relocation to Japan in 2025, I’m seeking new challenges where I can contribute long-term value at the intersection of decentralized tech and business innovation.
-
 ---
 
 ## Contact Information
-- **Location:** Bruges, Belgium - relocating to Tokyo  
+- **Location:** Bruges, Belgium 
 - **Phone:** +32 471 591 187  
 - **Email:** shane.deconinck@gmail.com  
 - **Website:** [shanedeconinck.be](https://shanedeconinck.be)  
