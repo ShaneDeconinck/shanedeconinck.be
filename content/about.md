@@ -15,7 +15,7 @@ I hold certifications in Laravel, Design Thinking, Hyperledger Fabric, and Besu,
 
 Recently, I expanded my focus to Trusted AI Agents, exploring how to ensure their safety and reliability across diverse trust boundaries within digital systems.
 
-At Howest Cyber3Lab, I lead cutting-edge projects and actively contribute to the Linux Foundation Digital Trust (LFDT) community. I write, speak, and build communities dedicated to demystifying complex tech. Helping businesses separate hype from value and embrace real-world adoption.
+At Howest Cyber3Lab, I lead applied research projects and actively contribute to the Linux Foundation Digital Trust (LFDT) community. I write, speak, and build communities dedicated to demystifying complex tech. Helping businesses separate hype from value and embrace real-world adoption.
 
 ---
 
