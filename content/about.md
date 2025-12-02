@@ -9,18 +9,18 @@ author = "Shane Deconinck"
 
 # Shane Deconinck
 
-Blockchain Architect & Web3 Strategist, bridging technology and business through decentralized infrastructure, trust systems, and full-stack development.
+I’m recognized for my leadership and innovation in decentralized technologies, with deep expertise in digital trust and extensive experience as a senior full stack web developer. 
 
-I lead Web3 applied research at [Howest Cyber3Lab](https://www.cyber3lab.be), with 7+ years experience translating blockchain and digital assets into enterprise-ready architectures — focusing on tokenization, system design, and digital trust for SMEs and larger organizations.
+I hold certifications in Laravel, Design Thinking, Hyperledger Fabric, and Besu, blending technical mastery with a user-focused and strategic approach. 
 
-My work spans smart contract development, backend/frontend integration, and architecture consulting — with a strong foundation in design thinking and interdisciplinary problem-solving. In 2023, I was invited to speak at the Linux Open Source Summit in Tokyo.
+Recently, I expanded my focus to Trusted AI Agents, exploring how to ensure their safety and reliability across diverse trust boundaries within digital systems.
 
-I combine a technical and strategic mindset with strong communication and leadership skills, helping organizations navigate real-world adoption of Web3 technologies.
+At Howest Cyber3Lab, I lead cutting-edge projects and actively contribute to the Linux Foundation Digital Trust (LFDT) community. I write, speak, and build communities dedicated to demystifying complex tech. Helping businesses separate hype from value and embrace real-world adoption.
 
 ---
 
 ## Contact Information
-- **Location:** Bruges, Belgium 
+- **Location:** Bruges, Belgium
 - **Phone:** +32 471 591 187  
 - **Email:** shane.deconinck@gmail.com  
 - **Website:** [shanedeconinck.be](https://shanedeconinck.be)  
@@ -133,6 +133,10 @@ I combine a technical and strategic mindset with strong communication and leader
 
 ## Events & Speaking Engagements
 
+- [**EthCC Side Event 2024:**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
+- [**LFDT Belgium Meetup - Trusted AI Agents :**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
+- [**Linux Foundation Open Source Summit 2025 Europe, August 2025:**](https://events.linuxfoundation.org/open-source-summit-europe/) 'Zero Trust at the Edge: Bridging Industrial Systems With Verifiable Credentials and OpenZiti' - Talk on the demonstrator co-developed with Sirris in Interreg SecuWeb
+- [**ID Collective: From Insights to Impact in Digital Identity - May 2025**](https://www.idcollective.eu/tech-talks/) Talk on Self Sovereign Identity
 - [**EthCC Side Event 2024:**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
 - **DAO Brussels Crypto Wednesday April 2024:** Presentation on blockchain governance.
 - [**Linux OSS and Hyperledger Member Summit 2023 Tokyo:**](https://www.youtube.com/watch?v=HClN-UI_Muw) Presentation on EBSI.
