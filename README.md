@@ -16,7 +16,7 @@ hugo new site my-blog
 ```
 
 ## Usage
-Creating a new post:
+Creating a new post: 
 ```bash
 hugo new content/posts/my-first-post.md
 ```
