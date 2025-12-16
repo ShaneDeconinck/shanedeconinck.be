@@ -10,7 +10,7 @@ theme = "paper"
     
     avatar = 'shane.deconinck@gmail.com'
     name = 'Shane Deconinck'
-    bio = 'Research in Web3, Digital Trust, Trusted AI Agents, ICT4D | Full Stack Web Developer'
+    bio = 'Research in Web3, Trusted AI Agents, ICT4D | Full Stack Web Developer'
     monoDarkIcon = true 
 
 [menu]
