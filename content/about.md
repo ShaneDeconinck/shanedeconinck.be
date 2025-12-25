@@ -143,9 +143,7 @@ At Howest Cyber3Lab, I lead applied research projects and actively contribute to
 
 - **AI & BC Conference Tokyo, September 2025** - **Best Presentation Award**
   - Presentation: "Decentralized Identity and Zero Trust Enforcement for Industrial Robot Maintenance" (Chair: Athakorn Kengpol, King Mongkut's University of Technology North Bangkok, Thailand)
-- [**Linux OSS Amsterdam 2025:**](https://www.youtube.com/watch?v=2sgJVJub8T8) 'Advancing Zero Trust for External Users With SSI and OpenZiti' - Talk showcasing practical implementations of decentralized identity and zero trust security principles.
-- [**EthCC Side Event 2024:**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
-- [**LFDT Belgium Meetup - Trusted AI Agents :**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
+- [**LFDT Belgium Meetup - Trusted AI Agents :**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations. [Recording](https://www.youtube.com/watch?v=2sgJVJub8T8) 
 - [**Linux Foundation Open Source Summit 2025 Europe, August 2025:**](https://events.linuxfoundation.org/open-source-summit-europe/) 'Zero Trust at the Edge: Bridging Industrial Systems With Verifiable Credentials and OpenZiti' - Talk on the demonstrator co-developed with Sirris in Interreg SecuWeb
 - [**ID Collective: From Insights to Impact in Digital Identity - May 2025**](https://www.idcollective.eu/tech-talks/) Talk on Self Sovereign Identity
 - [**EthCC Side Event 2024:**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
