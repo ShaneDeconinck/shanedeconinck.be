@@ -56,6 +56,13 @@ At Howest Cyber3Lab, I lead applied research projects and actively contribute to
 
 ---
 
+## Awards
+
+- [**LFDT 2025 Community Recognition Award**](https://www.lfdecentralizedtrust.org/blog/2025-community-awards-recognizing-contributions-from-across-the-lf-decentralized-trust-community) *(Linux Foundation Decentralized Trust, December 2025)*
+  - Recognized as one of 10 community leaders for driving ecosystem development and educating the next wave of contributors and builders in the decentralized trust space.
+
+---
+
 ## Side Projects
 
 ### **Tech Lead**  
@@ -109,14 +116,15 @@ At Howest Cyber3Lab, I lead applied research projects and actively contribute to
 
 ## Research Projects
 
+- **2025 - Ongoing:** TETRA DPP InZicht: Exploring authenticity and integrity verification through SSI for Digital Product Passports.
 - **2024 - Ongoing:** Interreg SecuWeb: Implemented SSI on EBSI, Solid data pods, and Industry 4.0 solutions.
-- **2024 - Ongoing:** EBSI Node Expansion: Hosting of EBSI node infrastructure for decentralized credentials.
-- **2023 - Ongoing:** Digital Credentials for Europe: Explored verifiable credentials in public-sector processes.
+- **2024 - 2025:** EBSI Node Expansion: Hosting of EBSI node infrastructure for decentralized credentials.
+- **2023 - 2025:** Digital Credentials for Europe: Explored verifiable credentials in public-sector processes.
 - **2022:** EBSI Early Adopters Programme: Created a portal for municipalities to issue verifiable credentials.
-- **2021 - Ongoing:** ICON Future Flemish Pig: Explored blockchain's potential in supply chains.
+- **2021 - 2025:** ICON Future Flemish Pig: Explored blockchain's potential in supply chains.
 - **2021 - 2023:** Interreg Blockchain4Prosumers: Investigated blockchain’s potential for energy trading systems.
 - **2019 - 2023:** Interreg Blockchain IN Government: Developed blockchain use cases for mobility, fitness, and energy.
-- **2017 - 2019:** TETRA Blockchain4SME: Demonstrated blockchain frameworks like Hyperledger Fabric.
+- **2017 - 2019:** TETRA Blockchain4SME: Demonstrated practical blockchain implementations (Hyperledger Fabric) to help SMEs understand adoption potential and real-world value.
 
 ---
 
@@ -133,6 +141,9 @@ At Howest Cyber3Lab, I lead applied research projects and actively contribute to
 
 ## Events & Speaking Engagements
 
+- **AI & BC Conference Tokyo, September 2025** - **Best Presentation Award**
+  - Presentation: "Decentralized Identity and Zero Trust Enforcement for Industrial Robot Maintenance" (Chair: Athakorn Kengpol, King Mongkut's University of Technology North Bangkok, Thailand)
+- [**Linux OSS Amsterdam 2025:**](https://www.youtube.com/watch?v=2sgJVJub8T8) 'Advancing Zero Trust for External Users With SSI and OpenZiti' - Talk showcasing practical implementations of decentralized identity and zero trust security principles.
 - [**EthCC Side Event 2024:**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
 - [**LFDT Belgium Meetup - Trusted AI Agents :**](https://www.meetup.com/lfdt-belgium/events/301437074/) Organized an event focused on Hyperledger Besu implementations.
 - [**Linux Foundation Open Source Summit 2025 Europe, August 2025:**](https://events.linuxfoundation.org/open-source-summit-europe/) 'Zero Trust at the Edge: Bridging Industrial Systems With Verifiable Credentials and OpenZiti' - Talk on the demonstrator co-developed with Sirris in Interreg SecuWeb
