@@ -4,12 +4,6 @@ date = 2026-01-03
 draft = false
 +++
 
----
-title: "AI Agent Governance: The Enterprise Challenge Beyond Getting AI to Work"
-date: 2026-01-03
-draft: false
----
-
 As software developers, we have a front-row seat to AI's transformative potential. [84% of developers now use or plan to use AI tools](https://www.index.dev/blog/developer-productivity-statistics-with-ai-tools), with tools like Claude Code already delivering ROI by reasoning through complex tasks autonomously. Getting them to work well is challenging enough. But scaling them across the enterprise with proper governance? That's a whole different level of complexity.
 
 [Nearly 60% of AI leaders cite risk and compliance concerns](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/blogs/pulse-check-series-latest-ai-developments/ai-adoption-challenges-ai-trends.html) as their primary adoption barrier. The challenge? Traditional IAM wasn't built for systems that create intent rather than just forward it.
