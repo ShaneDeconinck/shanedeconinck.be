@@ -5,7 +5,7 @@ date = "2015-02-07"
 author = "Shane Deconinck"
 +++
 
-<img src="/images/shanedeconinck.jpeg" alt="Shane Deconinck" style="max-width: 200px; border-radius: 50%;">
+{{< figure src="/images/shanedeconinck.jpeg" alt="Shane Deconinck" width="200px" class="rounded" >}}
 
 # Shane Deconinck
 
