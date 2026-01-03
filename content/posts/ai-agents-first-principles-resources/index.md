@@ -1,5 +1,5 @@
 ---
-title: "Value Resources for Understanding AI Agents: First Principles"
+title: "Valuable Resources for Understanding AI Agents: First Principles"
 date: 2025-12-15
 draft: false
 ---
