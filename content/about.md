@@ -52,7 +52,7 @@ At Howest Cyber3Lab, I lead applied research projects and actively contribute to
 
 ### **LFDT European Chapter Co-founder**
 *LF Decentralized Trust · 2024 – Present*
-- Co-founded the European Chapter together with Espeo Software to grow the LFDT community across Europe.
+- Co-founded the European Chapter to grow the LFDT community across Europe.
 
 ### **Interim Research Manager**
 *Howest University of Applied Sciences · 2022 – 2023*
