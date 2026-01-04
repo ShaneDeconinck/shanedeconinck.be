@@ -11,13 +11,13 @@ author = "Shane Deconinck"
 
 **Web3 Lead | Decentralized Trust | Trusted AI Agents**
 
-I'm recognized for my leadership and innovation in decentralized technologies, with deep expertise in digital trust and extensive experience as a senior full stack web developer.
+I grew the Web3 team at Howest Cyber3Lab from the ground up, leading applied research projects across blockchain, self-sovereign identity, and digital trust. Along the way, I earned recognition as a [2025 LF Decentralized Trust community awardee](https://www.lfdecentralizedtrust.org/blog/2025-community-awards-recognizing-contributions-from-across-the-lf-decentralized-trust-community), spoke at Linux Foundation summits in Europe and Tokyo, and built communities that bridge academia, industry, and open source.
 
-I hold certifications in Laravel, Design Thinking, Hyperledger Fabric, and Besu, blending technical mastery with a user-focused and strategic approach.
+Now I'm looking for my next challenge: **bringing trusted AI agents to the enterprise**. I'm fascinated by how we ensure safety, accountability, and reliability when autonomous systems operate across organizational boundaries — and I want to build it.
 
-Recently, I expanded my focus to Trusted AI Agents, exploring how to ensure their safety and reliability across diverse trust boundaries within digital systems.
+I hold certifications in Hyperledger Fabric, Besu, Laravel, and Design Thinking. I write, speak, and demystify complex tech — helping businesses separate hype from real-world value.
 
-At Howest Cyber3Lab, I lead applied research projects and actively contribute to the LF Decentralized Trust community. I write, speak, and build communities dedicated to demystifying complex tech — helping businesses separate hype from value and embrace real-world adoption.
+**Open to opportunities** in AI agents, decentralized identity, and digital trust.
 
 ---
 
@@ -25,9 +25,7 @@ At Howest Cyber3Lab, I lead applied research projects and actively contribute to
 
 - **Location:** Bruges, Belgium
 - **Email:** shane.deconinck@gmail.com
-- **Website:** [shanedeconinck.be](https://shanedeconinck.be)
 - **LinkedIn:** [linkedin.com/in/shanedeconinck](https://linkedin.com/in/shanedeconinck)
-- **GitHub:** [github.com/shanedeconinck](https://github.com/shanedeconinck)
 
 ---
 
