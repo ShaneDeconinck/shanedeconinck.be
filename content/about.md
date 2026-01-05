@@ -9,15 +9,15 @@ author = "Shane Deconinck"
 
 # Shane Deconinck
 
-**Web3 Lead | Decentralized Trust | Trusted AI Agents**
+Open to global remote roles in AI agents and decentralized trust.
 
-I grew the Web3 team at Howest Cyber3Lab from the ground up, leading applied research projects across blockchain, self-sovereign identity, and digital trust. Along the way, I earned recognition as a [2025 LF Decentralized Trust community awardee](https://www.lfdecentralizedtrust.org/blog/2025-community-awards-recognizing-contributions-from-across-the-lf-decentralized-trust-community), spoke at Linux Foundation summits in Europe and Tokyo, and built communities that bridge academia, industry, and open source.
+~
 
-Now I'm looking for my next challenge: **bringing trusted AI agents to the enterprise**. I'm fascinated by how we ensure safety, accountability, and reliability when autonomous systems operate across organizational boundaries — and I want to build it.
+Shaped the Web3 team at Howest Cyber3Lab into a research force across blockchain, SSI, and digital trust. 2025 LF Decentralized Trust community awardee. Speaker at Linux Foundation summits in Europe and Tokyo.
 
-I hold certifications in Hyperledger Fabric, Besu, Laravel, and Design Thinking. I write, speak, and demystify complex tech — helping businesses separate hype from real-world value.
+Now focused on trusted AI agents - how autonomous systems can operate safely across enterprise boundaries.
 
-**Open to opportunities** in AI agents, decentralized identity, and digital trust.
+First principles. Hands-on. Always learning.
 
 ---
 
