@@ -96,33 +96,6 @@ First principles. Hands-on. Always learning.
 
 ---
 
-## Skills
-
-### **Web3**
-- EVM, Besu
-- Hyperledger Fabric
-- SSI / EBSI
-- Bitcoin / Lightning Network
-- IPFS
-
-### **Web2**
-- TALL stack: Tailwind, Alpine.js, PHP / Laravel, Livewire
-- Node.js / Express
-- Vue.js
-
-### **System**
-- Linux, Docker
-- DevOps: CI/CD, Kubernetes (conceptual)
-- Git
-
-### **Other**
-- Design Thinking
-- Business Process Modeling
-- Agile Project Management
-- Educating & Writing
-
----
-
 ## Speaking Engagements
 
 - **AI & BC Conference Tokyo, September 2025** – **Best Presentation Award**
