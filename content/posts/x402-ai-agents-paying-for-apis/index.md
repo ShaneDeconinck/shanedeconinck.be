@@ -51,17 +51,26 @@ GET /api/v1/listings?neighborhood=Mission
 
 ```json
 {
-  "x-402": {
-    "version": "0.1",
+  "x402_version": "1.0",
+  "payment": {
     "amount": "10000",
+    "amount_usd": 0.01,
     "currency": "USDC",
-    "chain": "base-sepolia",
-    "recipient": "0x9c71...7056"
-  }
+    "decimals": 6,
+    "recipient": "0x9c71...7056",
+    "contract": "0x036C...Cf7e",
+    "network": "base-sepolia",
+    "chain_id": 84532,
+    "proof": {
+      "header": "X-Payment-Proof",
+      "type": "transaction_hash"
+    }
+  },
+  "tier": 1
 }
 ```
 
-The server tells the agent exactly what to pay, where to pay it, and on which network.
+The server tells the agent exactly what to pay, where, on which network, and how to prove it.
 
 ### Step 3: Agent pays on-chain
 
