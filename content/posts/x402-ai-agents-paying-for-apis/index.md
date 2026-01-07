@@ -150,8 +150,6 @@ Agents that can access more services, autonomously, without manual API key setup
 
 ## Limitations
 
-Being honest:
-
 **Replay attacks** - The demo accepts any valid recent transaction. Production needs nonce tracking.
 
 **Failed calls** - If payment succeeds but API fails, money is lost. Needs refund mechanisms.
