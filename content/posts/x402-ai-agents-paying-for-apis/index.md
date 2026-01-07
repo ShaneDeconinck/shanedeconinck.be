@@ -1,6 +1,6 @@
 +++
 title = "When Agents Pay for APIs: Getting Hands-On with Coinbase's x402 Protocol"
-date = 2025-01-07
+date = 2026-01-07
 draft = false
 +++
 
