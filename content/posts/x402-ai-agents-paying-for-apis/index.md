@@ -30,7 +30,7 @@ I wanted to understand how it actually works, so I built a demo from scratch.
 
 ## The Demo
 
-{{< youtube YOUR_VIDEO_ID >}}
+{{< youtube ocYXPjUdFXg >}}
 
 I built a proof of concept: a San Francisco real estate API with two pricing tiers.
 
@@ -162,7 +162,7 @@ Being honest:
 
 ## Try It
 
-**Code:** [GitHub](https://github.com/YOUR_USERNAME/x402-demo)
+**Code:** [GitHub](https://github.com/ShaneDeconinck/x402-agent-to-api-demo)
 
 **Tech stack:**
 - FastAPI (Python)
