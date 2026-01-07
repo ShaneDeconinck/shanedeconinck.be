@@ -19,7 +19,7 @@ Stablecoins changed that. x402 connects the two.
 **What x402 solves:**
 - **No accounts needed** - Pay per request, no signup
 - **Machine-readable** - Agents can parse payment instructions automatically
-- **Instant settlement** - USDC on Base, confirmed in seconds
+- **Instant settlement** - On-chain confirmation, no invoicing delays
 - **Cryptographic proof** - Transaction hash proves payment, no disputes
 
 The protocol has already processed [over 100M payments](https://www.x402.org/writing/x402-v2-launch) across APIs and AI agents. Cloudflare and Coinbase are launching the [x402 Foundation](https://www.cloudflare.com/press/press-releases/2025/cloudflare-and-coinbase-will-launch-x402-foundation/) to standardize it further.
