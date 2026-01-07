@@ -6,11 +6,9 @@ draft = false
 
 Traditional APIs assume a human is on the other side. Someone signs up, adds a payment method, manages billing, approves transactions. This works for human-driven integrations.
 
-It's inconvenient for autonomous agents.
+It's not ideal for machine-to-machine. Account signups, credit cards, invoice emails—these flows weren't designed to be programmatic.
 
-An AI agent can't sign up for an account. It can't add a credit card. It can't respond to an invoice email. Yet we're building a future where agents need to autonomously discover, consume, and pay for services.
-
-**The gap:** APIs need a payment primitive that agents can use without human intervention.
+As we build agents that need to autonomously discover and pay for services, we need payment primitives that work without human intervention.
 
 ## Enter x402: Coinbase's Answer
 
