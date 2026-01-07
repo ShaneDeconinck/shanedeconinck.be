@@ -6,7 +6,7 @@ draft = false
 
 Traditional APIs assume a human is on the other side. Someone signs up, adds a payment method, manages billing, approves transactions. This works for human-driven integrations.
 
-It breaks completely for autonomous agents.
+It's inconvenient for autonomous agents.
 
 An AI agent can't sign up for an account. It can't add a credit card. It can't respond to an invoice email. Yet we're building a future where agents need to autonomously discover, consume, and pay for services.
 
