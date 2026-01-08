@@ -35,7 +35,7 @@ I built a proof of concept: a San Francisco real estate API with two pricing tie
 | 1 | `/api/v1/listings` | $0.01 | Property listings by neighborhood |
 | 2 | `/api/v1/valuation` | $0.10 | AI-powered property valuation |
 
-An AI agent queries the API, gets a 402 response with payment instructions, pays in USDC, and retries with proof. No human in the loop.
+An AI agent queries the API, gets a 402 response with payment instructions, signs an authorization, and the server settles it on-chain. No human in the loop.
 
 ## How x402 Works (with EIP-3009)
 
