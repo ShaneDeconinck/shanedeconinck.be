@@ -4,27 +4,23 @@ date = 2026-01-07
 draft = false
 +++
 
-**HTTP 402 "Payment Required"** has existed since 1997. It was reserved for "future use" because there was no digital payment system that worked at the protocol level. It was never implemented—until now.
+**HTTP 402 "Payment Required"** has existed since 1997. It was reserved for "future use" because there was no standard payment layer at the protocol level. Until now.
 
-With AI agents talking to APIs (and soon to each other), machine-to-machine payments are becoming essential. Agent-to-API is the most likely first use case, and it's a big opportunity for companies that are currently getting scraped: monetize access instead of fighting it.
-
-Current API billing—signups, credit cards, invoice emails—wasn't built for autonomous agents. We need payment primitives that work without human intervention.
+With AI agents talking to APIs and other agents, machine-to-machine payments are becoming essential. Current API billing (signups, credit cards, invoice emails) wasn't built for autonomous agents.
 
 ## Enter x402
 
 [x402](https://www.x402.org/) is an open payment protocol that **Coinbase and Cloudflare** are standardizing through the [x402 Foundation](https://www.cloudflare.com/press/press-releases/2025/cloudflare-and-coinbase-will-launch-x402-foundation/). It finally puts HTTP 402 to work.
 
-Stablecoins made this possible. x402 connects them to the HTTP layer.
-
 **What x402 solves:**
 - **No accounts needed** - Pay per request, no signup
 - **Machine-readable** - Agents parse payment instructions automatically
 - **Instant settlement** - On-chain confirmation, no invoicing delays
-- **Cryptographic proof** - Transaction hash proves payment, no disputes
+- **Cryptographic proof** - Transaction proves payment, no disputes
 
-The protocol has already processed [over 100M payments](https://www.x402.org/writing/x402-v2-launch) across APIs and AI agents.
+The protocol supports multiple networks and payment methods. It has already processed [over 100M payments](https://www.x402.org/writing/x402-v2-launch) across APIs and AI agents.
 
-I wanted to understand how it actually works, so I built a demo from scratch.
+I wanted to understand how it works, so I built a demo.
 
 ## The Demo
 
