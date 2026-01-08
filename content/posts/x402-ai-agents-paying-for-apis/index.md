@@ -4,25 +4,17 @@ date = 2026-01-07
 draft = false
 +++
 
-**HTTP 402 "Payment Required"** has existed since 1997. It was reserved for "future use" because there was no digital payment system that worked at the protocol level. Now we're starting to see practical implementations.
+I love it when emerging tech comes together.
 
-With AI agents talking to APIs and other agents, machine-to-machine payments are becoming essential. Agent-to-API is the most likely first use case for production deployment, and it's a big opportunity for companies—whether they're getting scraped or want to pass on capabilities without building AI products themselves.
+2025 was stablecoin summer. Banks are launching their own, payment rails are integrating them. The infrastructure is finally here.
 
-Current API billing (signups, credit cards, invoice emails) wasn't built for autonomous agents. We need payment primitives that work without human intervention.
+But AI agents still can't pay for APIs autonomously. Credit cards need human approval. Account signups break autonomous flows. Current billing wasn't designed for machine-to-machine.
 
-## Enter x402
+**HTTP 402 "Payment Required"** has existed since 1997 but never had a payment layer. Coinbase and Cloudflare are now building one: [x402](https://www.x402.org/).
 
-[x402](https://www.x402.org/) is an open payment protocol that **Coinbase and Cloudflare** are standardizing through the [x402 Foundation](https://www.cloudflare.com/press/press-releases/2025/cloudflare-and-coinbase-will-launch-x402-foundation/). It finally puts HTTP 402 to work.
+This is a big opportunity. Companies with valuable data getting scraped can monetize access instead of fighting it. Companies with proprietary algorithms can expose capabilities without becoming AI companies themselves.
 
-**What x402 solves:**
-- **No accounts needed** - Pay per request, no signup
-- **Machine-readable** - Agents parse payment instructions automatically
-- **Instant settlement** - On-chain confirmation, no invoicing delays
-- **Cryptographic proof** - On-chain transaction hash proves payment, no disputes
-
-The protocol supports multiple networks and payment methods. It has already processed [over 100M payments](https://www.x402.org/writing/x402-v2-launch) across APIs and AI agents.
-
-I wanted to understand how it works, so I built a demo.
+I wanted to see how it actually works, so I built a demo.
 
 ## The Demo
 
