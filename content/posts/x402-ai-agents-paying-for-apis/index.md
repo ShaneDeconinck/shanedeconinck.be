@@ -4,9 +4,11 @@ date = 2026-01-07
 draft = false
 +++
 
-**HTTP 402 "Payment Required"** has existed since 1997. It was reserved for "future use" because there was no standard payment layer at the protocol level. Until now.
+**HTTP 402 "Payment Required"** has existed since 1997. It was reserved for "future use" because there was no digital payment system that worked at the protocol level. It never had a standard payment layer. Until now.
 
-With AI agents talking to APIs and other agents, machine-to-machine payments are becoming essential. Current API billing (signups, credit cards, invoice emails) wasn't built for autonomous agents.
+With AI agents talking to APIs (and soon to each other), machine-to-machine payments are becoming essential. Agent-to-API is the most likely first use case, and it's a big opportunity for companies that are currently getting scraped: monetize access instead of fighting it.
+
+Current API billing (signups, credit cards, invoice emails) wasn't built for autonomous agents. We need payment primitives that work without human intervention.
 
 ## Enter x402
 
