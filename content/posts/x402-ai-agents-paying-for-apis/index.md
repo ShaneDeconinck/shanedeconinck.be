@@ -4,7 +4,7 @@ date = 2026-01-07
 draft = false
 +++
 
-I love it when emerging tech comes together.
+**Stablecoin summer meets AI agents.** I love it when emerging tech comes together.
 
 2025 was stablecoin summer. Banks are launching their own, payment rails are integrating them. The infrastructure is finally here.
 
