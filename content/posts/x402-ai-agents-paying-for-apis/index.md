@@ -48,8 +48,10 @@ GET /api/v1/listings?neighborhood=Mission
     "scheme": "exact",
     "network": "base-sepolia",
     "maxAmountRequired": "10000",
+    "resource": "/api/v1/listings",
     "payTo": "0x9c71...7056",
-    "asset": "0x036C...Cf7e"
+    "asset": "0x036C...Cf7e",
+    "maxTimeoutSeconds": 300
   }]
 }
 ```
