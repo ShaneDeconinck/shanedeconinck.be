@@ -51,7 +51,7 @@ GET /api/v1/listings?neighborhood=Mission
     "resource": "/api/v1/listings",
     "payTo": "0x9c71...7056",
     "asset": "0x036C...Cf7e",
-    "maxTimeoutSeconds": 300
+    ...
   }]
 }
 ```
@@ -157,7 +157,7 @@ x402 lets them monetize data access without building AI products. Expose an API,
 
 ### For AI Companies
 
-They need data but can't acquire everything. x402 gives agents a way to pay for data programmatically, at scale, without business development deals for every data source.
+They need data and capabilities but can't build everything. x402 gives agents a way to pay for data and logic programmatically, at scale, without business development deals for every integration.
 
 ### For Users
 
