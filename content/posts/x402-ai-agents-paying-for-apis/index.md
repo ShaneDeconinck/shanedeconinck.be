@@ -26,7 +26,7 @@ I wanted to understand how it works, so I built a demo.
 
 ## The Demo
 
-{{< youtube ocYXPjUdFXg >}}
+{{< youtube wNHUrroN_Hk >}}
 
 I built a proof of concept: a San Francisco real estate API with two pricing tiers.
 
